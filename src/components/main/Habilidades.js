@@ -25,6 +25,7 @@ import illustrator from '../../assets/illustrator.png';
 import figma from '../../assets/figma.png';
 import java from '../../assets/java.png';
 import next from '../../assets/next.png';
+import flutter from '../../assets/Flutter.png';
 
 export function Habilidades() {
     return (
@@ -71,6 +72,7 @@ export function Habilidades() {
                         <div class="cel:w-full w-80 h-80 flex items-center justify-center flex-wrap">
                             <img src={java} class="w-20 mx-5"></img>
                             <img src={next} class="w-20 mx-5"></img>
+                            <img src={flutter} class="w-20 mx-5"></img>
                         </div>
                     </div>
                     <div class="cel:w-11/12 w-80 h-96 flex items-center justify-center flex-wrap bg-neutral-900 border-2 border-stone-800 mb-14">

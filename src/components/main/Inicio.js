@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/anchor-has-content */
 import '../../index.css';
-import CvImagen from '../../assets/Cv.jpg';
+import DiegoBenjaminVallory from '../../assets/DiegoBenjaminVallory.jpg';
 
 export function Inicio() {
     return (
@@ -18,7 +18,7 @@ export function Inicio() {
                     futuro son <span class="font-semibold text-amber-400">poder trabajar</span> en lo que me apasiona y seguir <span class="text-amber-400 font-semibold">perfeccionándome</span> cada día en este campo.
                 </p>
                 <div class="cel:pb-5 flex items-center cel:mt-2 justify-center cel:gap-4 gap-10 cel:w-full cel:h-full">
-                    <a href={CvImagen} download="Cv.jpg" class="grid place-items-center cel:w-12 cel:h-12 w-16 h-16 border-2 border-black bg-green-700 rounded-full"><i class="fa-solid fa-file"></i></a>
+                    <a href={DiegoBenjaminVallory} download="DiegoBenjaminVallory.jpg" class="grid place-items-center cel:w-12 cel:h-12 w-16 h-16 border-2 border-black bg-green-700 rounded-full"><i class="fa-solid fa-file"></i></a>
                     <a href='www.linkedin.com/in/diego-benjamin-vallory-52b793263' class="grid place-items-center cel:w-12 cel:h-12 w-16 h-16 border-2 border-black bg-blue-900 rounded-full"><i class="fa-brands fa-linkedin"></i></a>
                     <a href='https://github.com/iBxnja' class="grid place-items-center cel:w-12 cel:h-12 w-16 h-16 border-2 border-black bg-neutral-900 rounded-full"><i class="fa-brands fa-github"></i></a>
                     <a href='mailto:benjaminvallory41gmail.com' class="grid place-items-center cel:w-12 cel:h-12 w-16 h-16 border-2 border-black bg-orange-700 rounded-full"><i class="fa-solid fa-envelope"></i></a>
