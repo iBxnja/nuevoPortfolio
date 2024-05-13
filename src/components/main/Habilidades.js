@@ -26,6 +26,7 @@ import figma from '../../assets/figma.png';
 import java from '../../assets/java.png';
 import next from '../../assets/next.png';
 import flutter from '../../assets/Flutter.png';
+import node from '../../assets/node.png';
 
 export function Habilidades() {
     return (
@@ -57,12 +58,14 @@ export function Habilidades() {
                         <div class="cel:w-full w-80 h-80 flex items-center justify-center flex-wrap">
                             <img src={php} class="w-16 h-10 mx-5"></img>
                             <img src={laravel} class="w-10 h-10 mx-5"></img>
+                            <img src={node} class="w-10 h-10 mx-5"></img>
                             <img src={python} class="w-10 h-12 mx-5"></img>
                             <img src={django} class="w-12 h-10 mx-5"></img>
                             <img src={ajax} class="w-14 h-9 mx-5"></img>
                             <img src={mysql} class="w-10 h-10 mx-5"></img>
                             <img src={git} class="w-10 h-10 mx-5"></img>
                             <img src={axios} class="w-20 h-8 mx-5"></img>
+                            <img src={flutter} class="w-20 mx-5"></img>
                         </div>
                     </div>
                 </div>
@@ -72,7 +75,6 @@ export function Habilidades() {
                         <div class="cel:w-full w-80 h-80 flex items-center justify-center flex-wrap">
                             <img src={java} class="w-20 mx-5"></img>
                             <img src={next} class="w-20 mx-5"></img>
-                            <img src={flutter} class="w-20 mx-5"></img>
                         </div>
                     </div>
                     <div class="cel:w-11/12 w-80 h-96 flex items-center justify-center flex-wrap bg-neutral-900 border-2 border-stone-800 mb-14">
