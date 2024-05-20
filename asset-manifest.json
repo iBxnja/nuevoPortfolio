@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nuevoPortfolio/static/css/main.83576018.css",
-    "main.js": "/nuevoPortfolio/static/js/main.b9d6c7d5.js",
+    "main.js": "/nuevoPortfolio/static/js/main.812efb9a.js",
     "static/js/453.7d1ffe6d.chunk.js": "/nuevoPortfolio/static/js/453.7d1ffe6d.chunk.js",
     "static/media/BenjaminVallory-01.jpg": "/nuevoPortfolio/static/media/BenjaminVallory-01.cd2b725cc1de7aa93b65.jpg",
     "static/media/hamburguesas.png": "/nuevoPortfolio/static/media/hamburguesas.32d3c128566e8cee9768.png",
@@ -12,6 +12,7 @@
     "static/media/postgresql.png": "/nuevoPortfolio/static/media/postgresql.4a8c66c90ba3b5e27f7c.png",
     "static/media/java.png": "/nuevoPortfolio/static/media/java.fdabd4e11f1235e4e8e0.png",
     "static/media/axios.png": "/nuevoPortfolio/static/media/axios.c112ac0f1ca6ec359d6d.png",
+    "static/media/angular.png": "/nuevoPortfolio/static/media/angular.01af70871edfe2e291c4.png",
     "static/media/dolar.jpg": "/nuevoPortfolio/static/media/dolar.de6d911d8b4fea48597a.jpg",
     "static/media/area.jpg": "/nuevoPortfolio/static/media/area.f41d7cdcda2d8cf3dee1.jpg",
     "static/media/Flutter.png": "/nuevoPortfolio/static/media/Flutter.ca94ec2db8f81a675d8b.png",
@@ -30,11 +31,11 @@
     "static/media/javascript.png": "/nuevoPortfolio/static/media/javascript.266bd9fb2663dcc057b4.png",
     "index.html": "/nuevoPortfolio/index.html",
     "main.83576018.css.map": "/nuevoPortfolio/static/css/main.83576018.css.map",
-    "main.b9d6c7d5.js.map": "/nuevoPortfolio/static/js/main.b9d6c7d5.js.map",
+    "main.812efb9a.js.map": "/nuevoPortfolio/static/js/main.812efb9a.js.map",
     "453.7d1ffe6d.chunk.js.map": "/nuevoPortfolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83576018.css",
-    "static/js/main.b9d6c7d5.js"
+    "static/js/main.812efb9a.js"
   ]
 }
