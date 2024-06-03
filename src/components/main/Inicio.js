@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/anchor-has-content */
 import '../../index.css';
-import BenjaminVallory from '../../assets/BenjaminValloryWebFullStack.jpg';
+import BenjaminVallory from '../../assets/DiegoBenjaminValloryCv.jpg';
 
 export function Inicio() {
     return (

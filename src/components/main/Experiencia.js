@@ -10,6 +10,19 @@ export function Experiencia() {
                     <h3 class="text-amber-500 font-bold text-4xl ml-6 cel:ml-0">Experiencia laboral</h3>
                 </div>
                 <div class="flex items-center justify-center cel:w-11/12 w-7/12 h-full">
+                    <div class="flex items-center justify-start flex-col w-1/12 h-full">
+                        <span class="w-4 h-4 bg-amber-700 rounded-full"></span>
+                        <span class="w-1 h-32 cel:h-40 bg-amber-400"></span>
+                    </div>
+                    <div class="w-11/12 text-white h-32 cel:h-40 flex items-start flex-col justify-start ">
+                        <h4 class="font-bold text-orange-400">Lumia</h4>
+                        <p class="font-light cel:text-sm">Experiencia laboral en forma de equipo el cual ocupé el puesto de
+                            programador web full stack. Utilicé amplias tecnologias como react, django, python, vue, tailwind,
+                            git, github y javascript
+                        </p>
+                    </div>
+                </div>
+                <div class="flex items-center justify-center cel:w-11/12 w-7/12 h-full">
                     <div class="flex items-center justify-center flex-col w-1/12 h-full">
                         <span class="w-4 h-4 bg-amber-700 rounded-full"></span>
                         <span class="w-1 cel:h-72 h-52 bg-amber-400"></span>
